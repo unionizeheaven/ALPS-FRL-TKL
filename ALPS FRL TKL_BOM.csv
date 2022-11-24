@@ -1,0 +1,17 @@
+Component Count:,91,,,,
+,,,,,
+Ref,Qnty,Value,Cmp name,Footprint,Description
+"C1, C4",2,22p,C_Small,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol"
+"C5, C6, C7",3,0.1uF,C_Small,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol"
+C8,1,10uF,C_Small,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol"
+C9,1,1u,C_Small,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol"
+"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66, D67, D68, D69, D70, D71, D72",72,D,D,Diode_SMD:D_SOD-123,Diode
+F1,1,500m,Polyfuse_Small,Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,"Resettable fuse, polymeric positive temperature coefficient, small symbol"
+J1,1,AVR-ISP-6,AVR-ISP-6,random-keyboard-parts:Reset_Pretty-Mask,Atmel 6-pin ISP connector
+"R1, R4",2,10k,R_Small,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,"Resistor, small symbol"
+"R5, R6",2,22,R_Small,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,"Resistor, small symbol"
+"R7, R8",2,5.1k,R_Small,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,"Resistor, small symbol"
+U1,1,AT90USB1287-A,AT90USB1287-A,Package_QFP:TQFP-64_14x14mm_P0.8mm,"16MHz, 128kB Flash, 8kB SRAM, 4kB EEPROM, USB 2.0 OTG, TQFP-64"
+U2,1,PRTR5V0U2X,PRTR5V0U2X,random-keyboard-parts:SOT143B,
+USB1,1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12,Type-C:HRO-TYPE-C-31-M-12-HandSoldering,
+Y1,1,XTAL,Crystal_GND24_Small,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,"Four pin crystal, GND on pins 2 and 4, small symbol"
